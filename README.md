@@ -35,5 +35,5 @@ LoadPulse 是一款基于 Python (FastAPI) 与 Vue3 开发的轻量级、免环�
 *   **Packaging**: PyInstaller, PyArmor
 
 ---
-*Developed by [你的 GitHub 用户名]*# LoadPulse
+*Developed by [PerformanceTool999998]*# LoadPulse
 A lightweight API performance testing tool with intelligent assertions.
